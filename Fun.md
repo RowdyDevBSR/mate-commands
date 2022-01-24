@@ -1,3 +1,7 @@
+<div align="center">
+<img src="https://cdn.discordapp.com/attachments/761425215652757545/935127666099638312/giphy.gif" align="center" style="width: 50%" />
+</div>
+
 # 🕹️ Fun 
 
 ***advice*** - *Gives u a suggestion.*
@@ -31,3 +35,8 @@
 ***punch*** - *Punch the mentioned user.*
 
 ***slap*** - *Slap the mentioned user.*
+
+
+<div align="center">
+<img src="https://cdn.discordapp.com/attachments/761425215652757545/935127666099638312/giphy.gif" align="center" style="width: 20%" />
+</div>
