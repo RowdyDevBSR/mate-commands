@@ -1,3 +1,7 @@
+<div align="center">
+<img src="https://cdn.discordapp.com/attachments/761425215652757545/935125238595854336/K4xx.gif" align="center" style="width: 50%" />
+</div>  
+
 # 🔰 Information Commands 🔰
 ***avatar*** - **Gives you mentioned user avatar.**
 
@@ -16,3 +20,7 @@
 ***servericon*** - **Gives you server icon.**
 
 ***whois,userinfo*** - **Gives you user information.**
+
+<div align="center">
+<img src="https://cdn.discordapp.com/attachments/761425215652757545/935125238595854336/K4xx.gif" align="center" style="width: 20%" />
+</div>  
