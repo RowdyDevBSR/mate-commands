@@ -25,7 +25,7 @@
 ***meme*** - *gives a meme.*
 
 ***neko*** - *A fun Command.
-*
+
 ***pat*** - *A fun Command.*
 
 ***punch*** - *Punch the mentioned user.*
