@@ -1,20 +1,18 @@
-Info .md
-# INFORMATION COMMANDS
+# 🔰 Information Commands 🔰
+***avatar***-Gives you mentioned user avatar.
 
-**avatar**-Gives you mentioned user avatar.
+***botinfo***-Gives you bot information.
 
-**botinfo**-Gives you bot information.
+***serverinfo***-Gives you server information.
 
-**serverinfo**-Gives you server information.
+***hastebin***-hasbin info Commands.
 
-**hastebin**-hasbin info Commands.
+***imdb***-imdb ifo Command.
 
-**imdb**-imdb ifo Command.
+***membercount***-Gives you server members count.
 
-**membercount**-Gives you server members count.
+***ping***-Gives you bot ping.
 
-**ping**-Gives you bot ping.
+***servericon***-Gives you server icon.
 
-**servericon**-Gives you server icon.
-
-**whois,userinfo**-Gives you user information.
+***whois,userinfo***-Gives you user information.
