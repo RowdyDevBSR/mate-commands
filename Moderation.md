@@ -16,7 +16,7 @@
 
 ***unmute*** - **unmute the muted user.**
 
-***slowmode*** - *add slow mode to channel {m!slowmode <#channel>}**
+***slowmode*** - **add slow mode to channel {m!slowmode <#channel>}**
 
 ***warn*** - **warns the mentioned user* *
 
