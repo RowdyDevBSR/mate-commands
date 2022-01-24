@@ -1,4 +1,4 @@
-# 🚫 MODERATION COMMANDS 🚫
+# ⚙️ MODERATION COMMANDS ⚙️
 
 ***addrole*** - **Adds the mentioned role to mentioned user.**
 
