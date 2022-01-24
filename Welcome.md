@@ -1,5 +1,5 @@
-#WELCOME COMMANDS
+# 🤞 WELCOME COMMANDS 🤞
 
-**setwelcome**-Sets welcome channel.
+***setwelcome*** - **Sets welcome channel.**
 
-**setmessage**-Sets welcome message.
+***setmessage*** - **Sets welcome message.**
