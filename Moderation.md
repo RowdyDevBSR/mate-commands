@@ -4,7 +4,7 @@
 
 **removerole**-Removes the mentioned role to mentioned user.
 
-**clear[purge]**-Clears the mentioned messge usage {h!clear :number:}.
+**clear[purge]**-Clears the mentioned messge usage {m!clear :number:}.
 
 **ban**-Bans the mentioned User
 
@@ -12,11 +12,11 @@
 
 **voicekick**-Kicks the mentioned user for voice channel.
 
-**mute**-mutes the mentioned user usage {h!mute <@user> <time> }.
+**mute**-mutes the mentioned user usage {m!mute <@user> <time> }.
 
 **unmute**-unmute the muted user.
 
-**slowmode**-add slow mode to channel {h!slowmode <#channel>}
+**slowmode**-add slow mode to channel {m!slowmode <#channel>}
 
 **warn**-warns the mentioned user 
 
