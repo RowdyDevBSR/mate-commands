@@ -1,6 +1,6 @@
 # 🚫 MODERATION COMMANDS 🚫
 
-***addrole*** - **Adds the mentioned role *to mentioned user.**
+***addrole*** - **Adds the mentioned role to mentioned user.**
 
 ***removerole*** - **Removes the mentioned role to mentioned user.**
 
